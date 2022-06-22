@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "592435810137",
+    "firebase_url": "https://dsa---ping-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "dsa---ping",
+    "storage_bucket": "dsa---ping.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592435810137:android:5d274db26c141572230648",
+        "android_client_info": {
+          "package_name": "com.DSA.StorageAnalysis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592435810137-652s1crvjsi1qmdiahkadeec7t14kh0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY_fEO63m1_YDW82PgeW4ds0vmFR1-S3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592435810137-652s1crvjsi1qmdiahkadeec7t14kh0s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "592435810137-2bmvce1rjrbcr02fkrn0a7fqehfoto4v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.DSA.StorageAnalysis"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
