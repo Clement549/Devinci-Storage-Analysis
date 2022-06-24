@@ -1,6 +1,6 @@
-# flutter_dsa_ping
+# Devinci Storage Analysis
 
-A new Flutter project.
+DSA est un service d’aide au ramassage des poubelles sous la forme d’un système physique comportant un ensemble de capteurs relié à une application.  
 
 ## Getting Started
 
