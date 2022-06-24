@@ -1,6 +1,6 @@
 # Présentation
 
-<img src="https://user-images.githubusercontent.com/13381610/175569786-b79f4fc3-a450-4d39-b553-4362827d009a.jpeg" name="image-name" height="220" width="500">
+<img src="https://user-images.githubusercontent.com/13381610/175571185-a6a17116-47fb-49a3-967c-d9ea64e35519.jpg" name="image-name" height="220" width="500">
 
 DSA est un service d’aide au ramassage des poubelles sous la forme d’un système physique comportant un ensemble de capteurs fixé à différentes poubelles. 
 Le taux de remplissage est mesuré quotidiennement par un capteur à ultrason et les données sont ensuite envoyées via requete HTTP Post à un serveur backend Node.js
