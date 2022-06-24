@@ -23,7 +23,7 @@ Screenshots :
 
 Modélisation du capteur (sur Solidworks) :
 
-![WhatsApp Image 2022-06-02 at 14 55 22](https://user-images.githubusercontent.com/13381610/175561987-394b3664-2f1f-44b4-ba76-44e12425ad4d.jpeg)
+<img src="[https://github.com/your_image.png](https://user-images.githubusercontent.com/13381610/175561987-394b3664-2f1f-44b4-ba76-44e12425ad4d.jpeg)" alt="Your image title" width="250"/>
 
 ![WhatsApp Image 2022-06-02 at 14 43 33](https://user-images.githubusercontent.com/13381610/175562001-263ed2b9-6940-47d6-86df-39ce9a097bc8.jpeg)
 
