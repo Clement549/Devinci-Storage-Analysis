@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/13381610/175571776-ef6391dc-94fb-4200-acea-d9621d891afe.jpg" name="image-name" height="200" width="400">
 
 DSA est un service d’aide au ramassage des poubelles sous la forme d’un système physique comportant un ensemble de capteurs fixé à différentes poubelles. 
-Le taux de remplissage est mesuré quotidiennement par un capteur à ultrason et les données sont ensuite envoyées via requete HTTP Post à un serveur backend Node.js
+Le taux de remplissage est mesuré quotidiennement par un capteur à ultrason et les données sont ensuite envoyées via requete HTTP Post à un serveur backend Node.js    
 Dès la réception de ces données, le backend met à jour automatiquement la base de données NoSQL sur Firebase.
 
 L'application cross-platform Android et IOS (réalisée avec Flutter) permet de visualiser sur une carte Google Maps la localisation des poubelles et de suivre en temps réel toutes les informations les concernats (Niveau de batterie, Photo de l'emplacement...)
