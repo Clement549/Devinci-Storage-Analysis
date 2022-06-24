@@ -6,7 +6,6 @@ Dès la réception de ces données, le backend met à jour automatiquement la ba
 
 L'application cross-platform Android et IOS (réalisée avec Flutter) permet de visualiser sur une carte Google Maps la localisation des poubelles et de suivre en temps réel toutes les informations les concernats (Niveau de batterie, Photo de l'emplacement...)
 
-
 ## Gallerie
 
 Vidéo de présentation de l'application (réaliséee sur After Effect) :
@@ -15,13 +14,11 @@ https://user-images.githubusercontent.com/13381610/175556938-6c254a30-4771-4478-
 
 Screenshots :
 
-![image5]{
-   width:200px;
-}(https://user-images.githubusercontent.com/13381610/175560936-da08c85e-b3db-493c-99a2-4a90af4afdec.jpeg)
-![image1](https://user-images.githubusercontent.com/13381610/175560941-761bcc2b-40b7-4276-a045-780549bae948.jpeg)
+![image1](https://user-images.githubusercontent.com/13381610/175567508-d839a262-0cee-4a5a-8d92-8f05a7d829f0.jpeg)
 ![image2](https://user-images.githubusercontent.com/13381610/175560945-7d5f315f-5e90-4f21-8d89-25c4d91007a7.jpeg)
 ![image3](https://user-images.githubusercontent.com/13381610/175560947-617949f3-8cec-4ee5-b08b-7073051df401.jpeg)
 ![image4](https://user-images.githubusercontent.com/13381610/175560948-4dd2d3d5-2bfd-44ab-8e4a-06a812da6f7d.jpeg)
+![image5](https://user-images.githubusercontent.com/13381610/175567532-cd7fdfe2-fafd-4ba3-a43c-a87830b01955.jpeg)
 
 Modélisation du capteur (sur Solidworks) :
 
