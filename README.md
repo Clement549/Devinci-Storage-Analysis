@@ -2,6 +2,15 @@
 
 <img src="https://user-images.githubusercontent.com/13381610/175571776-ef6391dc-94fb-4200-acea-d9621d891afe.jpg" name="image-name" height="300" width="600">
 
+### English
+
+DSA is a project developed to optimise the bins collection.
+We have made a 3D printed sensor composed of a 2G emitter, a battery and an ultrasonic sensor.
+This device is attached to the bins, inside. Everyday, it sends the bin's fill rate to our backend server and to the mobile app.
+The mobile app compute the shortest path to get the almost full bins by using the Google Maps API. 
+
+### French
+
 DSA est un service d’aide au ramassage des déchets prenant la forme d’une application mobile et d'un boitié composé d'un ensemble de capteurs fixé aux poubelles. 
 Le taux de remplissage est mesuré quotidiennement par un capteur à ultrason et les données sont ensuite envoyées via requete HTTP Post à un serveur backend Node.js    
 Dès la réception de ces données, le backend met à jour automatiquement la base de données NoSQL sur Firebase.
