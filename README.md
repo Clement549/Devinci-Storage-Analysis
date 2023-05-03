@@ -4,7 +4,7 @@
 
 ### English
 
-DSA is a project developed to optimise the bins collection.
+DSA is a project developed to optimise bins collection.
 We have made a 3D printed sensor composed of a 2G emitter, a battery and an ultrasonic sensor.
 This device is attached to the bins, inside. Everyday, it sends the bin's fill rate to our backend server and to the mobile app.
 The mobile app compute the shortest path to get the almost full bins by using the Google Maps API. 
