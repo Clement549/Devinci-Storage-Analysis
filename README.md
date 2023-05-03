@@ -1,4 +1,4 @@
-# Présentation
+# Presentation
 
 <img src="https://user-images.githubusercontent.com/13381610/175571776-ef6391dc-94fb-4200-acea-d9621d891afe.jpg" name="image-name" height="300" width="600">
 
