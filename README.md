@@ -4,10 +4,24 @@
 
 ### English
 
-DSA is a project developed to optimize bins collection.
-We have made a 3D printed sensor composed of a 2G emitter, a battery and an ultrasonic sensor.
-This device is attached to the bins, inside at the top. Everyday, it sends the bin's fill rate to our backend server and to the mobile app.
-The mobile app compute the shortest path to get the almost full bins by using the Google Maps API. 
+DSA aims to optimize the route of garbage trucks ⬇️
+
+To do this, I built little devices, composed of an ESP32 microcontroller (cheaper version of Arduino), an ulrasonic sensor and a 2G internet module 🖲️
+
+The components are placed in a 3D printed box, designed with SolidWorks.
+
+Theses devices are then placed inside the bin, on the lid, at the top 🗑️ 
+
+Once a day, at 4am, the ultrasonic sensor measures the distance to check if the bin is closed to be empty. 
+The data is sent via the 2G module to my Node.js backend server through an HTTP Post request 📡
+
+For this project, I also had to build a Flutter mobile app for the workers 📱
+
+This app uses the Google Map API to display the positions of the bins in the area and their filling percentage 🗺️
+
+Then, it will compute the shortest route to get all the bins that are almost full.
+
+Thus, trucks don't have to pass where bins don't need to be empty 🚚
 
 ### French
 
